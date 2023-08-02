@@ -1,5 +1,6 @@
 # :wave: Hello, folks!
 
+I'm a Brazilian front-end developer currently working as a freelancer. Here, you'll find a collection of my projects and contributions to the web development community. I'm passionate about creating user-friendly and visually appealing websites that leave a lasting impression. Let's connect and collaborate on exciting projects together! Feel free to explore my repositories and don't hesitate to reach out for any questions or potential collaborations. Happy coding! 🚀
 
 
 # :computer:  Tech Stack
